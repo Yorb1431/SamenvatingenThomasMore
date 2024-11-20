@@ -16,25 +16,22 @@
 - **Werkloosheidsgraad**: Aantal werklozen gedeeld door de beroepsbevolking, in procent.
 
 #### Formule:
-\[
-\text{Werkloosheidsgraad} = \frac{\text{Aantal werklozen}}{\text{Beroepsbevolking}} \times 100
-\]
+
+{Werkloosheidsgraad} = {Aantal werklozen}{Beroepsbevolking} \ 100
+
 
 **Voorbeeld**:
 - Aantal werklozen: 200.000  
 - Beroepsbevolking: 4.000.000  
-\[
-\text{Werkloosheidsgraad} = \frac{200.000}{4.000.000} \times 100 = 5\%
-\]
+
+{Werkloosheidsgraad} = {200.000}{4.000.000} \ 100 = 5\%
 
 ---
 
 ## 1. Het Aanbod van Arbeidskrachten
 
 ### Totale aanbod:
-\[
-\text{Werkenden + Niet-werkende werkzoekenden}
-\]
+{Werkenden + Niet-werkende werkzoekenden}
 
 ### Bevolkingstrends:
 - **Vergrijzing**: +65 jaar stijgt naar 20% in 2023.
@@ -45,9 +42,7 @@
 - Verhogen participatie van laaggeschoolden en minderheden.
 
 #### Formule:
-\[
-\text{Activiteitsgraad} = \frac{\text{Beroepsbevolking}}{\text{Bevolking op arbeidsleeftijd}} \times 100
-\]
+Activiteitsgraad = {Beroepsbevolking}{Bevolking op arbeidsleeftijd} \ 100
 
 ---
 
@@ -59,9 +54,7 @@
 - **Kosten van arbeid vs. kapitaal**: Robots kunnen arbeid vervangen.
 
 ### Arbeidsintensiteit:
-\[
-\text{Arbeidsintensiteit} = \frac{\text{Werkgelegenheidstoename}}{\text{Economische groei}}
-\]
+Arbeidsintensiteit = {Werkgelegenheidstoename}{Economische groei}
 
 **2023**: 0,53 → Relatief lage toename van banen bij economische groei.
 
@@ -101,9 +94,7 @@
 - Knelpuntberoepen zoals in de zorg, IT, onderwijs en bouw.
 
 #### Formule:
-\[
-\text{Spanningsgraad} = \frac{\text{Aantal werkzoekenden}}{\text{Aantal vacatures}}
-\]
+Spanningsgraad = {Aantal werkzoekenden}{Aantal vacatures}
 
 **Lage spanningsgraad** betekent een krappe arbeidsmarkt (bijv. Vlaanderen: 2,2 in 2023).
 
@@ -132,16 +123,12 @@
 - Concurrentiepositie onder druk door stijgende loonkosten.
 
 #### Formule:
-\[
-\text{Loonwig} (\%) = \frac{\text{Totale loonkost} - \text{Nettoloon}}{\text{Totale loonkost}} \times 100
-\]
+Loonwig (\%) = {Totale loonkost} - {Nettoloon}{Totale loonkost} \ 100
 
 **Voorbeeld**:
 - Totale loonkost: €3.125  
 - Nettoloon: €1.644,25  
-\[
-\text{Loonwig} = \frac{3.125 - 1.644,25}{3.125} \times 100 = 47,4\%
-\]
+Loonwig = {3.125 - 1.644,25}{3.125} \times 100 = 47,4\%
 
 ---
 
