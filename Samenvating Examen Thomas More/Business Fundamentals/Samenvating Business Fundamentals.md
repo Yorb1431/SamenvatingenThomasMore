@@ -1,4 +1,6 @@
-# **Samenvatting: Business Fundamentals - Les 1: Wat is een Business(model) CANVAS?**
+# **Samenvatting: Business Fundamentals - Wat is een Business(model) CANVAS?**
+## Les 1: Wat is een Business(model) CANVAS?
+
 
 ---
 
