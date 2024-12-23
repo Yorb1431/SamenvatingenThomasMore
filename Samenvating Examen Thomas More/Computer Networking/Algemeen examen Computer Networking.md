@@ -694,3 +694,329 @@ Een command-line interface is een krachtig hulpmiddel voor het beheren van syste
 
 ---
 
+# Hoofdstuk 7 - **Scripting**
+
+## **Wat is Scripting?**
+Scripting is het proces van het schrijven van relatief korte en eenvoudige instructies (scripts) om een anders handmatig proces te automatiseren. Een script wordt meestal geschreven in een **scripttaal**, ontworpen om eenvoudige automatisering mogelijk te maken.
+
+### **Kenmerken van Scripting:**
+1. **Geïnterpreteerd:**
+   - Scripts worden niet gecompileerd naar machinecode zoals traditionele programma's. Ze worden rechtstreeks uitgevoerd door een interpreter.
+2. **Kort en eenvoudig:**
+   - Scripts bevatten vaak enkele regels code en zijn gericht op specifieke taken.
+3. **Beperkte mogelijkheden:**
+   - Scripttalen missen vaak de complexiteit van algemene programmeertalen.
+4. **Directe uitvoering:**  
+   - Scripts starten doorgaans met de eerste regel code, zonder de noodzaak van een expliciete ingangspunten zoals `main()` in Java.
+
+---
+
+## **Voorbeelden van Scripttalen**
+1. **Python:** Een veelzijdige taal, geschikt voor zowel scripting als applicatieontwikkeling.  
+   - Voorbeeld:  
+     ```python
+     print("Hello World")
+     ```
+2. **Bash:** Veel gebruikt op Unix/Linux-systemen voor het schrijven van shellscripts.  
+3. **PowerShell:** Speciaal ontworpen voor Windows-beheer en automatisering.
+
+---
+
+### **PowerShell vs Bash**
+1. **PowerShell:**
+   - Gebaseerd op .NET-objecten.
+   - Syntax: **werkwoord-zelfstandig naamwoord** (bijv. `Get-Item`).
+2. **Bash:**
+   - Gebaseerd op tekstmanipulatie.
+   - Simpel en direct, maar minder geschikt voor complexe objectmanipulaties.
+
+---
+
+## **Belangrijke PowerShell Commando’s**
+1. **Get-Command:** Bekijk alle beschikbare commando’s.
+2. **Get-Help:** Toon hulpinformatie voor een specifiek commando.
+3. **Set-Location:** Navigeer naar een map (alias `cd`).
+4. **Get-ChildItem:** Lijst bestanden en mappen (alias `dir`).
+
+---
+
+### **Veelgebruikte Werkwoorden in PowerShell**
+- **Get:** Haalt gegevens op zonder wijzigingen aan te brengen.  
+- **Set:** Wijzigt bestaande instellingen.  
+- **New:** Maakt nieuwe items aan.  
+- **Remove:** Verwijdert bestaande items.  
+- **Add:** Voegt items toe.
+
+---
+
+### **Navigeren in PowerShell**
+1. **Map veranderen:**  
+   ```powershell
+   Set-Location "C:\\Users\\Documents"
+   ```
+2. **Gebruik pijltjestoetsen:** Navigeer door recente commando’s.
+3. **Tab-completie:** Gebruik `<Tab>` om commando’s automatisch aan te vullen.
+
+---
+
+### **Bestanden en Directories Beheren**
+1. **Nieuw bestand of map aanmaken:**  
+   ```powershell
+   New-Item -Path "C:\\Test" -ItemType "Directory"
+   ```
+2. **Inhoud bekijken:**  
+   ```powershell
+   Get-Content "C:\\Test\\file.txt"
+   ```
+3. **Tekst toevoegen:**  
+   ```powershell
+   "Nieuwe tekst" >> "C:\\Test\\file.txt"
+   ```
+
+---
+
+## **Pipelines in PowerShell**
+De **pipeline (`|`)** in PowerShell maakt het mogelijk om de uitvoer van een commando als invoer voor een ander te gebruiken.  
+- **Voorbeeld:**  
+  ```powershell
+  Get-ChildItem | Where-Object {$_.Length -gt 100KB}
+  ```
+
+---
+
+### **Geavanceerde Functies**
+1. **Filteren:**  
+   Gebruik regex of logische operatoren om gegevens te filteren.  
+   - Voorbeeld:  
+     ```powershell
+     Get-ChildItem | Where-Object {$_.Name -match "log"}
+     ```
+2. **Groeperen:**  
+   Groepeer resultaten op eigenschappen.  
+   - Voorbeeld:  
+     ```powershell
+     Get-ChildItem | Group-Object Extension
+     ```
+3. **Meting:**  
+   Meet eigenschappen zoals bestandsgrootte.  
+   - Voorbeeld:  
+     ```powershell
+     Get-ChildItem | Measure-Object Length -Sum
+     ```
+
+---
+
+## **Toepassingen van Scripting**
+1. **Automatisering:**  
+   Het uitvoeren van routinetaken zoals back-ups of updates.
+2. **Beheer:**  
+   Configureren van gebruikersrechten of het installeren van software.
+3. **Data-analyse:**  
+   Filteren en sorteren van logbestanden.
+4. **Testen:**  
+   Scripts worden gebruikt om applicaties te testen in verschillende omgevingen.
+
+---
+
+### **Praktijkvoorbeeld: Eenvoudige Automatisering**
+1. Maak een script dat mappen aanmaakt en bestanden verplaatst:  
+   ```powershell
+   $source = "C:\\Downloads"
+   $destination = "C:\\SortedFiles"
+   New-Item -Path $destination -ItemType "Directory"
+   Get-ChildItem $source | Move-Item -Destination $destination
+   ```
+
+---
+
+## **Voordelen van Scripting**
+1. **Snelheid:** Automatisering van repetitieve taken bespaart tijd.  
+2. **Flexibiliteit:** Scripts kunnen eenvoudig worden aangepast.  
+3. **Integratie:** Werkt goed met andere tools en systemen.
+
+---
+
+## **Nadelen van Scripting**
+1. **Beperkte complexiteit:** Niet geschikt voor grote applicaties.  
+2. **Foutgevoelig:** Scripts zijn afhankelijk van correcte syntax en logica.  
+3. **Performance:** Meestal minder efficiënt dan gecompileerde talen.
+
+---
+
+## **Samenvatting**
+Scripting is een essentiële vaardigheid voor automatisering en systeembeheer. Met talen zoals PowerShell, Bash en Python kunnen gebruikers efficiënter werken en complexe taken automatiseren. Hoewel scripts beperkt zijn in functionaliteit, zijn ze ideaal voor routinematige en beheertaken.
+
+---
+
+# Hoofdstuk 8 - **Virtualization and Cloud Computing & Storage**
+
+## **Deel 1: Virtualization**
+
+### **Wat is Virtualisatie?**
+Virtualisatie is het proces waarbij een fysieke server wordt opgedeeld in meerdere virtuele servers (Virtual Machines, VM’s) via een **hypervisor**. Hierdoor kunnen meerdere besturingssystemen en toepassingen parallel draaien op dezelfde hardware.
+
+---
+
+### **Voordelen van Virtualisatie**
+1. **Efficiënt gebruik van hardware:**
+   - Hardwarebronnen zoals CPU, RAM en opslag worden optimaal benut.
+2. **Flexibiliteit:**
+   - Meerdere besturingssystemen en applicaties kunnen tegelijkertijd draaien zonder conflicten.
+3. **Schaalbaarheid:**
+   - Bronnen kunnen eenvoudig worden opgeschaald of afgeschaald op basis van behoefte.
+4. **Kostenbesparing:**
+   - Minder fysieke servers nodig, waardoor operationele kosten dalen.
+
+---
+
+### **Typen Hypervisors**
+1. **Type 1 Hypervisor (Bare Metal):**
+   - Draait direct op de hardware zonder een onderliggend OS.
+   - **Voorbeelden:** VMware ESXi, Microsoft Hyper-V, Boot Camp.
+
+2. **Type 2 Hypervisor:**
+   - Draait bovenop een bestaand besturingssysteem als applicatie.
+   - **Voorbeelden:** VirtualBox, VMware Workstation, Parallels.
+
+---
+
+### **Virtuele Containers**
+Containers zijn een lichtere vorm van virtualisatie waarbij alleen de applicatie en bijbehorende afhankelijkheden worden gevirtualiseerd, in plaats van een volledig besturingssysteem.
+
+#### **Voordelen van Containers**
+1. **Snelle opstarttijd:** Binnen enkele seconden operationeel.
+2. **Efficiënt gebruik van bronnen:** Minder overhead dan volledige VM’s.
+3. **Flexibiliteit:** Containers zijn ideaal voor het ontwikkelen en implementeren van microservices.
+
+#### **Bekende Tools voor Containers:**
+- Docker
+- Kubernetes
+- Podman
+- Swarm
+
+---
+
+### **Virtuele Netwerken**
+1. **vSwitches:**
+   - Virtuele switches beheren netwerkverkeer binnen een virtualisatieserver.
+   - vSwitches maken interne communicatie mogelijk tussen VMs.
+
+2. **vNICs:**
+   - Virtuele netwerkkaarten maken verbinding met externe netwerken mogelijk.
+
+---
+
+### **Toepassingen van Virtualisatie**
+1. **Ontwikkeling en testen:**
+   - Nieuwe besturingssystemen of applicaties kunnen veilig worden getest.
+2. **Penetratietests:**
+   - Tools zoals Kali Linux kunnen in een gesimuleerde omgeving worden gebruikt.
+3. **Back-ups en Snapshots:**
+   - Gemakkelijk terugkeren naar een eerdere staat.
+4. **Server Consolidatie:**
+   - Meerdere VM’s kunnen draaien op één fysieke server om ruimte en energie te besparen.
+
+---
+
+## **Deel 2: Cloud Computing & Storage**
+
+### **Wat is Cloud Computing?**
+Cloud computing biedt schaalbare en elastische toegang tot gedeelde fysieke en virtuele bronnen via het internet. Gebruikers kunnen opslag, rekenkracht en netwerkdiensten on-demand gebruiken zonder eigen hardware te beheren.
+
+---
+
+### **Belangrijkste Eigenschappen van Cloud Computing** (volgens NIST):
+1. **On-demand self-service:**
+   - Gebruikers kunnen zelf bronnen provisioneren zonder menselijke interactie met de provider.
+
+2. **Brede netwerktoegang:**
+   - Toegang via standaardprotocollen op apparaten zoals laptops, tablets en mobiele telefoons.
+
+3. **Resource Pooling:**
+   - Bronnen worden gedeeld over meerdere gebruikers via een multi-tenant model.
+
+4. **Snelle Elasticiteit:**
+   - Bronnen kunnen automatisch worden opgeschaald of afgeschaald op basis van de vraag.
+
+5. **Gemeten Service:**
+   - Verbruik wordt gemonitord en gefactureerd op basis van daadwerkelijk gebruik.
+
+---
+
+### **Service Modellen in Cloud Computing**
+1. **IaaS (Infrastructure as a Service):**
+   - Biedt basisinfrastructuur zoals servers, opslag en netwerken.
+   - **Voorbeelden:** Amazon EC2, Google Compute Engine.
+
+2. **PaaS (Platform as a Service):**
+   - Ontwikkelplatforms voor het bouwen en implementeren van applicaties.
+   - **Voorbeelden:** Google App Engine, Microsoft Azure App Services.
+
+3. **SaaS (Software as a Service):**
+   - Gebruikers hebben toegang tot kant-en-klare applicaties.
+   - **Voorbeelden:** Google Workspace, Dropbox, Salesforce.
+
+---
+
+### **Cloud Opslag**
+Cloudopslag verwijst naar gegevens die extern worden opgeslagen in logische pools. De fysieke opslag wordt beheerd door cloudproviders zoals AWS, Google Drive en Microsoft Azure.
+
+#### **Voordelen van Cloudopslag:**
+1. **Schaalbaarheid:**
+   - Bronnen kunnen on-demand worden uitgebreid.
+2. **Beschikbaarheid:**
+   - Data is overal toegankelijk via internet.
+3. **Kostenbesparing:**
+   - Geen investering in lokale hardware nodig.
+
+#### **Soorten Opslag:**
+1. **Primaire Opslag:** RAM, direct toegankelijk door de CPU.
+2. **Secundaire Opslag:** SSD’s en HDD’s, langzamere toegang maar persistent.
+3. **Tertiaire Opslag:** Automatisering zoals tapes voor archivering.
+4. **Offline Opslag:** Niet direct verbonden met een systeem, bijvoorbeeld USB-schijven.
+
+---
+
+### **Netwerkopslag**
+1. **DAS (Direct Attached Storage):**
+   - Direct verbonden met een computer zonder netwerk.
+
+2. **NAS (Network Attached Storage):**
+   - Bestandsopslag via een netwerk, toegankelijk voor meerdere gebruikers.
+
+3. **SAN (Storage Area Network):**
+   - Hogesnelheidsopslag op block-niveau, ideaal voor datacenters.
+
+---
+
+### **Waardepropositie van Cloud Computing**
+1. **Kostenreductie:**
+   - Kapitaalinvesteringen worden vervangen door operationele uitgaven.
+
+2. **Flexibiliteit:**
+   - Toegang vanaf elk apparaat met een internetverbinding.
+
+3. **Hoge Beschikbaarheid:**
+   - Redundantie en back-ups zorgen voor betrouwbaarheid.
+
+4. **Verbeterde Beveiliging:**
+   - Data wordt gecentraliseerd en beveiligd met encryptie.
+
+---
+
+### **Uitdagingen in Cloud Computing**
+1. **Beveiliging en Privacy:**
+   - Gegevensbeveiliging is afhankelijk van de provider.
+
+2. **Kostenbeheer:**
+   - Zonder monitoring kunnen cloudkosten oplopen.
+
+3. **Beperkte Controle:**
+   - Gebruikers hebben minder inzicht in hoe resources worden beheerd.
+
+---
+
+## **Samenvatting**
+Virtualisatie en cloud computing zijn fundamentele technologieën voor moderne IT-infrastructuren. Virtualisatie biedt flexibiliteit en resource-optimalisatie, terwijl cloud computing schaalbare, on-demand toegang tot infrastructuur en opslag biedt. Hoewel beide technologieën uitdagingen zoals beveiliging en kostenbeheer hebben, bieden ze enorme voordelen voor efficiëntie, schaalbaarheid en kostenbesparing.
+
+---
