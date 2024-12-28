@@ -73,3 +73,7 @@ Bij de studie van één economisch verschijnsel worden alle andere factoren als 
    ```
    Productie = Arbeid + Natuur + Kapitaal
    ```
+
+---
+
+# Hoofdstuk 1 - 
