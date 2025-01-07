@@ -6,7 +6,7 @@
 - C: Ze zorgen voor directe interactie met klanten.
 - D: Ze elimineren de noodzaak van innovatie in primaire activiteiten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -16,7 +16,7 @@
 - C: Door nieuwe toetreders uit de markt te houden.
 - D: Door alleen te concurreren op kostenleiderschap.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -26,7 +26,7 @@
 - C: Door alleen te focussen op het werven van nieuwe klanten.
 - D: Door bestaande klanten kortingen aan te bieden.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -36,7 +36,7 @@
 - C: Om een strategie te ontwikkelen die beter aansluit bij veranderende marktomstandigheden.
 - D: Om tijdelijke verliezen te minimaliseren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -46,7 +46,7 @@
 - C: Economies of scale verlagen de vaste kosten; economies of scope verlagen de variabele kosten.
 - D: Economies of scale richten zich op nichemarkten; economies of scope op brede markten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -56,7 +56,7 @@
 - C: Door alleen financiële doelen te prioriteren.
 - D: Door uitsluitend te focussen op klantloyaliteit.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -66,7 +66,7 @@
 - C: Door snel marktaandeel te vergroten via prijsverlagingen.
 - D: Door hun focus te verleggen naar minder concurrerende markten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -76,7 +76,7 @@
 - C: Overmatige decentralisatie van beslissingsbevoegdheid.
 - D: Gebrek aan consistentie in strategische uitvoering.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -86,7 +86,7 @@
 - C: De waarde van het platform stijgt naarmate meer gebruikers toetreden en interacties versterken.
 - D: Het platform vermindert afhankelijkheid van klantgroepen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -96,7 +96,7 @@
 - C: Door IP-protectiecontracten te integreren in samenwerkingsverbanden.
 - D: Door innovatieprocessen volledig te outsourcen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -106,7 +106,7 @@
 - C: Het vergroten van marktaandeel door kostenbesparingen.
 - D: Het minimaliseren van afhankelijkheid van externe leveranciers.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -116,7 +116,7 @@
 - C: Het elimineert advertentie-inkomsten en verhoogt klantloyaliteit.
 - D: Het richt zich uitsluitend op exclusieve klantsegmenten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -126,7 +126,7 @@
 - C: Door korte termijn doelstellingen te implementeren.
 - D: Door volledig te vertrouwen op marktsignalen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -136,7 +136,7 @@
 - C: Churn rate is het percentage tevreden klanten; verhoog dit door betere klantenservice.
 - D: Churn rate is het percentage herhaalde aankopen; verhoog dit door loyaliteitsbonussen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -146,7 +146,7 @@
 - C: Het verlaagt de focus op retentieprogramma's.
 - D: Het verhoogt de noodzaak voor acquisitiekosten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -156,7 +156,7 @@
 - C: Door alleen interne operationele processen te wijzigen.
 - D: Door alle bestaande producten te elimineren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -166,7 +166,7 @@
 - C: Het elimineert hiërarchische managementlagen.
 - D: Het verbetert interne kostenstructuren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -176,7 +176,7 @@
 - C: Door langdurige marktanalyse te combineren met productontwikkeling.
 - D: Door volledig te vertrouwen op bestaande oplossingen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -186,7 +186,7 @@
 - C: Incrementele innovatie is duurder dan radicale innovatie.
 - D: Incrementele innovatie richt zich op nieuwe markten; radicale innovatie op kostenbesparingen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -196,7 +196,7 @@
 - C: Het elimineert de noodzaak van traditionele marketingstrategieën.
 - D: Het verhoogt de afhankelijkheid van digitale verkoopkanalen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -206,7 +206,7 @@
 - C: Het elimineert samenwerking tussen afdelingen.
 - D: Het verhoogt de afhankelijkheid van externe stakeholders.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -216,7 +216,7 @@
 - C: Door concurrentie te vermijden en interne processen te optimaliseren.
 - D: Door alleen te focussen op een enkele klantgroep.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -226,7 +226,7 @@
 - C: Het verhogen van schaalvoordelen door productvariatie te minimaliseren.
 - D: Het analyseren van markttrends om bestaande markten te domineren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -236,7 +236,7 @@
 - C: Een divisiestructuur biedt meer schaalvoordelen; een functionele structuur richt zich op productkwaliteit.
 - D: Een divisiestructuur is flexibeler in interne processen dan een functionele structuur.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -246,7 +246,7 @@
 - C: Het elimineren van concurrentie door exclusieve diensten aan te bieden.
 - D: Het verhogen van winst door basisdiensten te beperken.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -256,7 +256,7 @@
 - C: Het standaardiseren van alle innovatiemethoden.
 - D: Het beperken van intellectuele eigendommen tot interne teams.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -266,7 +266,7 @@
 - C: Door marketinguitgaven te minimaliseren.
 - D: Door interne processen te standaardiseren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -276,7 +276,7 @@
 - C: Door kernklanten te negeren en nieuwe klanten aan te trekken.
 - D: Door alle operationele processen te outsourcen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -286,7 +286,7 @@
 - C: Door uitsluitend te focussen op historische data en trends.
 - D: Door klantenfeedback volledig te integreren in kernprocessen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -296,4 +296,8 @@
 - C: Het minimaliseren van concurrentie door prijsverlaging.
 - D: Het richten op tijdelijke marktkansen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
+
+
+
+90% !!!!!!!!!!
