@@ -6,7 +6,7 @@
 - C: Het verlagen van operationele kosten.
 - D: Het uitbreiden van marktaandeel.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -16,7 +16,7 @@
 - C: Het leveren van producten aan klanten.
 - D: Het verbeteren van klantenservice.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -26,7 +26,7 @@
 - C: Het uitbreiden naar internationale markten.
 - D: Het verhogen van marketinguitgaven.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -36,7 +36,7 @@
 - C: Het ontwikkelen van een marketingstrategie.
 - D: Het produceren van goederen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -46,7 +46,7 @@
 - C: Een investering in technologieontwikkeling.
 - D: Een interne afdeling voor personeelsbeheer.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -56,7 +56,7 @@
 - C: Het verhogen van productprijzen voor winstmaximalisatie.
 - D: Het optimaliseren van marketingstrategieën.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -66,7 +66,7 @@
 - C: Het verlagen van productie- en distributiekosten.
 - D: Het creëren van nieuwe producten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -76,7 +76,7 @@
 - C: Lagere kosten door schaalvoordelen.
 - D: Verbeterde samenwerking tussen afdelingen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -86,7 +86,7 @@
 - C: Een netwerk van samenwerkende bedrijven.
 - D: Een proces voor kostenbesparing in productie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -96,7 +96,7 @@
 - C: Het verlagen van productiekosten.
 - D: Het analyseren van klantgedrag.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -106,7 +106,7 @@
 - C: Financiën, personeelsbeheer en administratie.
 - D: Leveranciersbeheer en technologische ontwikkeling.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -116,7 +116,7 @@
 - C: Een managementinstrument dat financiële en niet-financiële doelen balanceert.
 - D: Een analyse van concurrentievoordelen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -126,7 +126,7 @@
 - C: Incrementele innovatie richt zich op kostenefficiëntie, terwijl radicale innovatie zich richt op klantenservice.
 - D: Incrementele innovatie is duurder dan radicale innovatie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -136,7 +136,7 @@
 - C: Het verbeteren van klantrelaties.
 - D: Het creëren van nieuwe marktkansen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -146,7 +146,7 @@
 - C: De verwachte winst van een klant in een jaar.
 - D: De totale marketingkosten om een klant te behouden.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -156,7 +156,7 @@
 - C: Moeilijke communicatie tussen afdelingen.
 - D: Lage kostenbesparingen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -166,7 +166,7 @@
 - C: Het maximaliseren van inkomsten in een verzadigde markt.
 - D: Het analyseren van concurrentievoordelen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ D ]
 
 ---
 
@@ -176,7 +176,7 @@
 - C: Exclusieve focus op nichemarkten.
 - D: Het aannemen van veel personeel in de beginfase.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -186,7 +186,7 @@
 - C: Het uitbreiden van een klantenbasis via sociale media.
 - D: Het verhogen van productievolumes om kosten te verlagen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -196,7 +196,7 @@
 - C: Interne innovaties beschermen tegen concurrenten.
 - D: Externe innovaties toepassen binnen het bedrijf.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -206,7 +206,7 @@
 - C: Het maximaliseren van inkomstenstromen.
 - D: Het minimaliseren van kosten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -216,7 +216,7 @@
 - C: Het outsourcen van operationele activiteiten.
 - D: Het implementeren van geavanceerde technologie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ D ]
 
 ---
 
@@ -226,7 +226,7 @@
 - C: Een product met een vast prijspunt voor alle klanten.
 - D: Een service die alleen beschikbaar is via directe verkoop.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -236,7 +236,7 @@
 - C: Het creëren van een nieuw businessmodel.
 - D: Het optimaliseren van operationele processen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -246,7 +246,7 @@
 - C: Primaire activiteiten richten zich op innovatie, ondersteunende activiteiten richten zich op kostenbesparing.
 - D: Primaire activiteiten zijn extern, ondersteunende activiteiten zijn intern.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -256,7 +256,7 @@
 - C: Het versnellen van financiële processen.
 - D: Het verbeteren van kostenstructuren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -266,7 +266,7 @@
 - C: Het analyseren van klanttevredenheid.
 - D: Het voorspellen van toekomstige trends.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -276,7 +276,7 @@
 - C: Gebrek aan specialisatie in afdelingen.
 - D: Moeilijkheden bij innovatie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -286,7 +286,7 @@
 - C: Een product dat exclusief wordt getest door interne teams.
 - D: Een product met geavanceerde functies voor premiumgebruikers.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -296,7 +296,7 @@
 - C: Het optimaliseren van kostenstructuren.
 - D: Het voorspellen van toekomstige inkomsten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
