@@ -6,7 +6,7 @@
 - C: Het verminderen van kostenstructuren.
 - D: Het vergroten van marktaandeel.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -16,7 +16,7 @@
 - C: De methoden voor het vergroten van marktaandeel.
 - D: De financiële structuren van een organisatie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -26,7 +26,7 @@
 - C: Verminderde complexiteit in besluitvorming.
 - D: Meer flexibiliteit in productinnovatie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -36,7 +36,7 @@
 - C: De financiële voordelen van samenwerking.
 - D: De strategieën om productie te maximaliseren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -46,7 +46,7 @@
 - C: Financieel beheer.
 - D: Menselijke middelen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -56,7 +56,7 @@
 - C: Productie gericht op schaalvoordelen.
 - D: Productie met een focus op kwaliteit.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -66,7 +66,7 @@
 - C: Het verhogen van operationele efficiëntie.
 - D: Het uitbreiden naar internationale markten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -76,7 +76,7 @@
 - C: Het minimaliseren van productieprocessen.
 - D: Het outsourcen van operationele activiteiten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -86,7 +86,7 @@
 - C: Een systeem om kosten te verlagen.
 - D: Een methode om producten sneller te distribueren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -96,7 +96,7 @@
 - C: Het uitbreiden van een bestaand productassortiment.
 - D: Innovatie gericht op kostenbesparing.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -106,7 +106,7 @@
 - C: De totale marketingkosten om een klant te behouden.
 - D: De verwachte winst per verkooptransactie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -116,7 +116,7 @@
 - C: Moeilijke samenwerking tussen teams.
 - D: Verlies van schaalvoordelen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -126,7 +126,7 @@
 - C: Een product dat exclusief getest wordt door interne teams.
 - D: Een product met geavanceerde functies voor premiumgebruikers.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -136,7 +136,7 @@
 - C: Het beheren van interne kostenstructuren.
 - D: Het analyseren van klantgegevens.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -146,7 +146,7 @@
 - C: Het beschermen van intellectuele eigendommen.
 - D: Het verminderen van externe betrokkenheid.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -156,7 +156,7 @@
 - C: Het verhogen van de operationele winst.
 - D: Het uitbreiden van een klantenbasis via marketing.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -166,7 +166,7 @@
 - C: Het communiceren van marketingstrategieën.
 - D: Het analyseren van klantgegevens.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -176,7 +176,7 @@
 - C: Het outsourcen van kernactiviteiten.
 - D: Het verminderen van operationele kosten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -186,7 +186,7 @@
 - C: Trage besluitvorming door meerdere lagen.
 - D: Verlies van autoriteit binnen teams.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -196,7 +196,7 @@
 - C: Het creëren van een kostenstructuur.
 - D: Het voorspellen van markttrends.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -206,7 +206,7 @@
 - C: Een product dat alleen beschikbaar is via abonnementen.
 - D: Een model dat draait om kostenbesparing.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -216,7 +216,7 @@
 - C: Het evalueren van operationele processen.
 - D: Het creëren van nieuwe marketingstrategieën.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -226,7 +226,7 @@
 - C: Het analyseren van aankoopgeschiedenis.
 - D: Het voorspellen van klantgedrag.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -236,7 +236,7 @@
 - C: Verhoogde samenwerking tussen afdelingen.
 - D: Snellere besluitvorming op elk niveau.
 
-**Antwoord:** [ ]
+**Antwoord:** [ D ]
 
 ---
 
@@ -246,7 +246,7 @@
 - C: Het uitbreiden van klanten via sociale media.
 - D: Het verhogen van productprijzen door vraag.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -256,7 +256,7 @@
 - C: Een analyse van operationele efficiëntie.
 - D: Een methode om klantloyaliteit te verbeteren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -266,7 +266,7 @@
 - C: Het verminderen van marketinguitgaven.
 - D: Het voorspellen van toekomstige vraag.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -276,7 +276,7 @@
 - C: Snellere schaalvergroting door centralisatie.
 - D: Grotere focus op nichemarkten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ D ]
 
 ---
 
@@ -286,7 +286,7 @@
 - C: Het optimaliseren van kostenstructuren.
 - D: Het voorspellen van marktaandeel.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -296,7 +296,7 @@
 - C: Het verhogen van operationele efficiëntie.
 - D: Het aanpassen van marketingstrategieën.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
