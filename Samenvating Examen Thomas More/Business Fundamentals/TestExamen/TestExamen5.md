@@ -6,7 +6,7 @@
 - C: Primaire en ondersteunende activiteiten opereren volledig onafhankelijk van elkaar.
 - D: Ondersteunende activiteiten verhogen de complexiteit van primaire activiteiten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -16,7 +16,7 @@
 - C: De macht van klanten om te onderhandelen over prijzen.
 - D: De invloed van nieuwe toetreders op jouw marktaandeel.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -26,7 +26,7 @@
 - C: Minimaliseren van marketinguitgaven door uniforme aanbiedingen.
 - D: Verlagen van productkwaliteit om de kosten te drukken.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -36,7 +36,7 @@
 - C: Het verminderen van operationele kosten door schaalvoordelen.
 - D: Het standaardiseren van processen in alle regio’s.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -46,7 +46,7 @@
 - C: Het focussen op het minimaliseren van kosten.
 - D: Het creëren van unieke inkomstenstromen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -56,7 +56,7 @@
 - C: Door te focussen op kostenbesparing in ontwikkelingsprocessen.
 - D: Door alleen interne teams bij innovatie te betrekken.
 
-**Antwoord:** [ ]
+**Antwoord:** [ D ]
 
 ---
 
@@ -66,7 +66,7 @@
 - C: Overmatige autonomie van lokale teams.
 - D: Moeilijkheden bij het implementeren van standaardprocedures.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -76,7 +76,7 @@
 - C: Het totale aantal klanten binnen een segment; een lage churn rate verlaagt de CLV.
 - D: Het percentage klanten dat jouw product aanbeveelt; een lage churn rate verhoogt de CLV.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -86,7 +86,7 @@
 - C: Door kosten te besparen door alle leveranciers te vervangen.
 - D: Door leveranciers te dwingen om hun prijzen te verlagen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -96,7 +96,7 @@
 - C: Het outsourcen van alle ondersteunende activiteiten.
 - D: Het maximaliseren van winstmarges door kostenbesparing.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -106,7 +106,7 @@
 - C: Het vermijdt feedback van klanten om ontwikkelingskosten te verlagen.
 - D: Het richt zich uitsluitend op het aantrekken van investeerders.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -116,7 +116,7 @@
 - C: Hogere efficiëntie door duidelijke taakverdeling.
 - D: Grotere focus op het uitbreiden naar internationale markten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -126,7 +126,7 @@
 - C: De jaarlijkse omzetgroei.
 - D: Het aantal gratis gebruikers dat het platform verlaat.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -136,7 +136,7 @@
 - C: Door de operationele efficiëntie van teams te vergroten.
 - D: Door klanttevredenheid als belangrijkste KPI vast te stellen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -146,7 +146,7 @@
 - C: Het vermijden van overmatige samenwerking binnen de organisatie.
 - D: Het standaardiseren van open innovatieprocessen.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -156,7 +156,7 @@
 - C: Het verlagen van klantloyaliteit door productaanpassingen.
 - D: Het verhogen van productiekosten door schaalvergroting.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -166,7 +166,7 @@
 - C: Het analyseren van leveranciersprestaties.
 - D: Het optimaliseren van marketingactiviteiten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -176,7 +176,7 @@
 - C: Kostenverhogingen door diversificatie van productlijnen.
 - D: Kostenbesparingen door minder variatie in producten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ D ]
 
 ---
 
@@ -186,7 +186,7 @@
 - C: Door een groot aantal interne ondersteunende activiteiten te ontwikkelen.
 - D: Door concurrerende platforms te negeren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -196,7 +196,7 @@
 - C: Het analyseren van concurrentie om marktaandeel te winnen.
 - D: Het standaardiseren van waardeprocessen binnen een markt.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -206,7 +206,7 @@
 - C: Trage adoptie door klanten in volwassen markten.
 - D: Verlies van kostenbesparingen door verhoogde complexiteit.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -216,7 +216,7 @@
 - C: De divisiestructuur heeft geen centrale managementlaag.
 - D: De functionele structuur is flexibeler dan de divisiestructuur.
 
-**Antwoord:** [ ]
+**Antwoord:** [ C ]
 
 ---
 
@@ -226,7 +226,7 @@
 - C: Het standaardiseren van marketingprocessen.
 - D: Het verlagen van operationele kosten.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -236,7 +236,7 @@
 - C: Door historische data te gebruiken om trends te voorspellen.
 - D: Door marktanalyse te combineren met klantfeedback.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -246,7 +246,7 @@
 - C: Het maximaliseren van interne controle over processen.
 - D: Het verminderen van afhankelijkheid van partners.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -256,7 +256,7 @@
 - C: Door de afhankelijkheid van grootschalige klanten te vergroten.
 - D: Door de productiecapaciteit te minimaliseren.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
 
 ---
 
@@ -266,7 +266,7 @@
 - C: Technologische ontwikkeling.
 - D: Financieel beheer.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -276,7 +276,7 @@
 - C: Door uitsluitend interne processen te analyseren.
 - D: Door benchmarks voor concurrentie te gebruiken.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -286,7 +286,7 @@
 - C: Het verminderen van productiekosten door schaalvoordelen.
 - D: Het maximaliseren van winstmarges via premiumfuncties.
 
-**Antwoord:** [ ]
+**Antwoord:** [ B ]
 
 ---
 
@@ -296,4 +296,4 @@
 - C: Het focussen op kortetermijnwinsten.
 - D: Het introduceren van nieuwe markten zonder concurrentie.
 
-**Antwoord:** [ ]
+**Antwoord:** [ A ]
