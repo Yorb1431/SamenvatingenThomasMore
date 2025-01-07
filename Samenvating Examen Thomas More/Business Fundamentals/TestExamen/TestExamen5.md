@@ -297,3 +297,6 @@
 - D: Het introduceren van nieuwe markten zonder concurrentie.
 
 **Antwoord:** [ A ]
+
+
+76,6 %
