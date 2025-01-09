@@ -7,7 +7,7 @@
    - [ ] C. Schaarse middelen en oneindige behoeften  
    - [ ] D. Onvoldoende kennis van de markt  
 
-   **Antwoord:**
+   **Antwoord:** C
 
 2. Wat is een voorbeeld van een niet-schaarse goed?  
    - [ ] A. Water uit een rivier  
@@ -15,7 +15,7 @@
    - [ ] C. Onderwijs  
    - [ ] D. Luxe auto's  
 
-   **Antwoord:**
+   **Antwoord:** A
 
 3. Welke behoeften horen volgens Maslow bij de primaire categorie?  
    - [ ] A. Ontwikkeling en zelfontplooiing  
@@ -23,7 +23,7 @@
    - [ ] C. Voedsel, kleding, en onderdak  
    - [ ] D. Culturele activiteiten  
 
-   **Antwoord:**
+   **Antwoord:** D
 
 ---
 
@@ -34,7 +34,7 @@
    - [ ] C. Toevallige omstandigheden  
    - [ ] D. Winstmaximalisatie  
 
-   **Antwoord:**
+   **Antwoord:** A
 
 5. Wat beschrijft de eerste wet van Gossen?  
    - [ ] A. Prijzen blijven constant bij hogere vraag  
@@ -42,7 +42,7 @@
    - [ ] C. Kosten en baten zijn altijd in balans  
    - [ ] D. Consumptie heeft geen invloed op behoeften  
 
-   **Antwoord:**
+   **Antwoord:** B
 
 ---
 
@@ -53,7 +53,7 @@
    - [ ] C. Beweging langs de curve  
    - [ ] D. Geen verandering  
 
-   **Antwoord:**
+   **Antwoord:** B
 
 7. Hoe worden substitueerbare goederen gekarakteriseerd?  
    - [ ] A. Ze vullen elkaar aan  
@@ -61,7 +61,7 @@
    - [ ] C. Ze hebben geen relatie  
    - [ ] D. Ze zijn altijd luxeproducten  
 
-   **Antwoord:**
+   **Antwoord:** D
 
 ---
 
@@ -72,7 +72,7 @@
    - [ ] C. Marginale opbrengst - Marginale kosten  
    - [ ] D. Gemiddelde opbrengst - Totale kosten  
 
-   **Antwoord:**
+   **Antwoord:** A
 
 9. Wanneer ontstaat het verzadigingspunt in productie?  
    - [ ] A. Bij toename van arbeidskrachten  
@@ -80,7 +80,7 @@
    - [ ] C. Bij een daling van de vraag  
    - [ ] D. Bij maximale kosten  
 
-   **Antwoord:**
+   **Antwoord:** B
 
 ---
 
@@ -91,7 +91,7 @@
     - [ ] C. Productie binnen landsgrenzen  
     - [ ] D. Belastingen  
 
-    **Antwoord:**
+    **Antwoord:** B
 
 11. Welke methode wordt NIET gebruikt om het BBP te berekenen?  
     - [ ] A. Productiebenadering  
@@ -99,7 +99,7 @@
     - [ ] C. Sociale benadering  
     - [ ] D. Inkomensbenadering  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 ---
 
@@ -110,7 +110,7 @@
     - [ ] C. Reële groei is gebaseerd op marktprijzen  
     - [ ] D. Er is geen verschil  
 
-    **Antwoord:**
+    **Antwoord:** A
 
 13. Welke fase hoort bij een periode van negatieve groei?  
     - [ ] A. Expansie  
@@ -118,7 +118,7 @@
     - [ ] C. Recessie  
     - [ ] D. Herstel  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 ---
 
@@ -129,7 +129,7 @@
     - [ ] C. Vacaturegraad stijgt  
     - [ ] D. Werkgelegenheid neemt af  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 15. Wat is een mogelijke oplossing voor een krappe arbeidsmarkt?  
     - [ ] A. Verlagen van de pensioenleeftijd  
@@ -137,7 +137,7 @@
     - [ ] C. Verlaging van lonen  
     - [ ] D. Beperking van opleidingen  
 
-    **Antwoord:**
+    **Antwoord:** B
 
 ---
 
@@ -148,7 +148,7 @@
     - [ ] C. Elektriciteit  
     - [ ] D. Regenwater  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 17. Welke productiefactor is NIET een klassiek productiemiddel?  
     - [ ] A. Arbeid  
@@ -156,7 +156,7 @@
     - [ ] C. Innovatie  
     - [ ] D. Kapitaal  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 ---
 
@@ -167,7 +167,7 @@
     - [ ] C. Alleen prijs en voorkeur veranderen  
     - [ ] D. Het gemiddelde nut is constant  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 19. Wat is het gevolg van een prijsdaling volgens de wet van het marginaal nut?  
     - [ ] A. Vraag stijgt  
@@ -175,7 +175,7 @@
     - [ ] C. Geen effect op de vraag  
     - [ ] D. Marginaal nut stijgt  
 
-    **Antwoord:**
+    **Antwoord:** D
 
 ---
 
@@ -186,7 +186,7 @@
     - [ ] C. Ze vervangen elkaar volledig  
     - [ ] D. Ze beïnvloeden elkaars productieproces  
 
-    **Antwoord:**
+    **Antwoord:** B
 
 21. Wat gebeurt er met de vraagcurve bij een verandering in voorkeuren?  
     - [ ] A. De vraagcurve verschuift  
@@ -194,7 +194,7 @@
     - [ ] C. Er is geen effect  
     - [ ] D. De vraagcurve wordt steiler  
 
-    **Antwoord:**
+    **Antwoord:** A
 
 ---
 
@@ -205,7 +205,7 @@
     - [ ] C. Kosten die alleen optreden bij maximale productie  
     - [ ] D. Kosten die toenemen bij dalende productie  
 
-    **Antwoord:**
+    **Antwoord:** B
 
 23. Wat is een voorbeeld van variabele kosten?  
     - [ ] A. Huur van een gebouw  
@@ -213,7 +213,7 @@
     - [ ] C. Grondstoffen  
     - [ ] D. Salaris van een manager  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 24. Wat is het optimale productiepunt in termen van kosten?  
     - [ ] A. Waar de gemiddelde variabele kosten het laagst zijn  
@@ -221,7 +221,7 @@
     - [ ] C. Waar de totale kosten het hoogst zijn  
     - [ ] D. Waar de winst maximaal is  
 
-    **Antwoord:**
+    **Antwoord:**  D
 
 ---
 
@@ -232,7 +232,7 @@
     - [ ] C. BBP inclusief belastingen  
     - [ ] D. BBP exclusief subsidies  
 
-    **Antwoord:**
+    **Antwoord:** A
 
 26. Waarom worden alleen finale goederen in het BBP geteld?  
     - [ ] A. Om de marktwaarde te berekenen  
@@ -240,7 +240,7 @@
     - [ ] C. Om productiefactoren te meten  
     - [ ] D. Omdat tussengoederen geen economische waarde hebben  
 
-    **Antwoord:**
+    **Antwoord:** A
 
 ---
 
@@ -251,7 +251,7 @@
     - [ ] C. Inflatiecijfers  
     - [ ] D. Productiviteitsgroei  
 
-    **Antwoord:**
+    **Antwoord:** C
 
 28. Wat gebeurt er met de conjunctuurcurve bij een double-dip recessie?  
     - [ ] A. Ze blijft stabiel  
@@ -259,7 +259,7 @@
     - [ ] C. Ze stijgt constant  
     - [ ] D. Ze beweegt langs een horizontale lijn  
 
-    **Antwoord:**
+    **Antwoord:** B
 
 ---
 
@@ -270,7 +270,7 @@
     - [ ] C. Percentage openstaande vacatures  
     - [ ] D. Percentage werklozen  
 
-    **Antwoord:**
+    **Antwoord:** A
 
 30. Wat is een van de grootste uitdagingen op de Belgische arbeidsmarkt?  
     - [ ] A. Te weinig hooggeschoolde werknemers  
@@ -278,5 +278,10 @@
     - [ ] C. Vergrijzing van de bevolking  
     - [ ] D. Gebrek aan arbeidsmobiliteit  
 
-    **Antwoord:**
+    **Antwoord:** C
+
+
+
+    77% eerste x
+
 
